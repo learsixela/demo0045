@@ -1,2 +1,3 @@
 comando git para bajar los cambio de la nube a el computador
 cambio desde el pc
+cambio desde el repositorio
