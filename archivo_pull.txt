@@ -13,4 +13,4 @@ cambio desde el repositorio
     git commit -m "nuevo cambio con el merge realizado"
 6.- git pull
 7.- git push
-
+8.- fin repositorio
