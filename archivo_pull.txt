@@ -14,4 +14,4 @@ cambio desde el repositorio
 6.- git pull
 7.- git push
 8.- fin local
- 
+
